@@ -6,7 +6,6 @@ Most of the IaC tools, like Chef and Ansible, follow the client-server architect
 Cloud-agnostic nature; you can deploy infrastructure to any cloud environment, such as Azure, AWS, GCP, and VMware, as well as on-premises environments.
 
 ## Installation
+https://developer.hashicorp.com/terraform/downloads?product_intent=terraform
 
-### Windows
-### Linux
-### MAC
+
